@@ -1,6 +1,6 @@
-## Geometry Calculator
+# Geometry Calculator
 
-# Description
+## Description
 This project consists of a `Geometry` class with static methods to calculate the area of a circle, rectangle, and triangle. 
 It also includes a `GeometryCalculator` class that provides a user-friendly menu interface to perform these calculations interactively. 
 The program ensures proper error handling for invalid input values (e.g., negative dimensions).
